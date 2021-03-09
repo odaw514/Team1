@@ -1,12 +1,21 @@
+Investigate:
 What is convinient?
 - fastest?
 - shortest?
 - incline
 - foot traffic
 
+Develop:
 Actually find the shortest path
 Find the least inclined path
 
-Strategy:
+Devise:
+Find the shortest distance between 'nodes'/turns/traffic lights
 Optimal substructures
 
+Excercise 1.2:
+Investigate:
+- What are the details of each member
+
+Develop:
+-how would everyone communicate
