@@ -25,11 +25,14 @@ Organise a time and method
 
 ==========================================================
 Excercise 3:
-Identify what a fibonacci number is, and what the sequence looks like
+Identify:
+What is a fibonacci number, and what does the sequence look like
 
 Develop:
 Make a list of fibonacci numbers, along with their nth identifier
 Or use a recursive algorithm
 
 Devise:
+Write out a list of fibonacci numbers, each with their nth position; for example the number 8 would be the 6th number in the sequence
 Develop a recursive algorithm to use n = n-1 + n-2; where n represents the nth number in the sequence
+
