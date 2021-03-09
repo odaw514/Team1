@@ -18,4 +18,18 @@ Investigate:
 - What are the details of each member
 
 Develop:
--how would everyone communicate
+-how would everyone communicate - what platform
+
+Devise:
+Organise a time and method
+
+==========================================================
+Excercise 3:
+Identify what a fibonacci number is, and what the sequence looks like
+
+Develop:
+Make a list of fibonacci numbers, along with their nth identifier
+Or use a recursive algorithm
+
+Devise:
+Develop a recursive algorithm to use n = n-1 + n-2; where n represents the nth number in the sequence
